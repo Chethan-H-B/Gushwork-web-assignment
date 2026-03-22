@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-- Netlify :
+- Netlify : https://chethan-gushwork.netlify.app/
 - GitHub Repository : https://github.com/Chethan-H-B/Gushwork-web-assignment
 
 ---
